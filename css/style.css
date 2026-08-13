@@ -24,7 +24,7 @@ hr {
 }
 
 nav {
-    background-color: #fbfbfb;
+    background-color: #dd9715;
     justify-content: center;
     gap: 25px;
     margin-top: 20px;
@@ -34,7 +34,7 @@ nav {
 
 nav a {
     text-decoration: none;
-    color: #746a6a;
+    color: #1394cf;
     font-weight: bold;
 }
 
@@ -48,7 +48,7 @@ main{
 }
 section{
     margin-bottom: 30px;
-    background-color:#fff;
+    background-color:#41b922;
     padding: 20px;
     border-radius: 20px;
 }
@@ -75,12 +75,12 @@ li{
     margin-bottom: 10px;
 }
 article{
-    background-color: #fdfbfb;
+    background-color: #380dd4;
     padding: 20px;
     border-radius: 10px;
 }
 article:hover{
-    background-color: #a09c9d;
+    background-color: #f3285b;
 }
 table{
     width: 70%;
@@ -93,10 +93,10 @@ td{
     text-align: center;
 }
 table, th, td{
-    border: 1px solid #ccc;
+    border: 1px solid #e0ee18;
 }
 tr:hover{
-    background-color: #dfd9d9;
+    background-color: #17e65c;
 }
 ol{
     margin-left: 50px;
@@ -117,7 +117,7 @@ input:not([type="submit"]):not([type="radio"]){
     width: 100%;
     padding: 10px;
     margin-bottom: 10px;
-    border: 1px solid #ccc;
+    border: 1px solid #c73131;
     border-radius: 5px;
     font-size: 16px;
 }
